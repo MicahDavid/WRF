@@ -16,3 +16,11 @@
 configure.wrf*
 *.backup
 *.f90
+
+# wrf run directory
+run/wrfbdy*
+run/wrfinput*
+run/wrfout*
+run/rsl*
+run/namelist.input.backup*
+run/*.nc
